@@ -1,0 +1,12 @@
+{
+  "data" : {
+    "teacher" : "Robbie",
+    "student" : "Spencer",
+    "cat" : "Marlene",
+    "parks" : {
+      "mountain view" : "Cheeseman Park",
+      "ponds" : "City Park",
+      "soccer" : "Congress Park"   
+    }
+  }
+}
